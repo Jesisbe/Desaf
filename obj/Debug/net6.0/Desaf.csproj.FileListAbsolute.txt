@@ -1,0 +1,15 @@
+C:\Users\jesi\Documents\Desaf\bin\Debug\net6.0\Desaf.exe
+C:\Users\jesi\Documents\Desaf\bin\Debug\net6.0\Desaf.deps.json
+C:\Users\jesi\Documents\Desaf\bin\Debug\net6.0\Desaf.runtimeconfig.json
+C:\Users\jesi\Documents\Desaf\bin\Debug\net6.0\Desaf.dll
+C:\Users\jesi\Documents\Desaf\bin\Debug\net6.0\Desaf.pdb
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.csproj.AssemblyReference.cache
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.AssemblyInfoInputs.cache
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.AssemblyInfo.cs
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.csproj.CoreCompileInputs.cache
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.dll
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\refint\Desaf.dll
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.pdb
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\Desaf.genruntimeconfig.cache
+C:\Users\jesi\Documents\Desaf\obj\Debug\net6.0\ref\Desaf.dll
